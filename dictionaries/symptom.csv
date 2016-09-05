@@ -1,0 +1,141 @@
+word,dic_id,score
+pain,1,0
+abdominal pain,1,0
+back pain,1,0
+chest pain,1,0
+pelvic pain,1,0
+vaginal pain,1,0
+rectal pain,1,0
+headache,1,0
+chronic,1,0
+toothache,1,0
+ache,1,0
+chill,1,0
+fever,1,0
+numbness,1,0
+tingling,1,0
+electric tweaks,1,0
+light-headed,1,0
+dizzy,1,0
+about to black out,1,0
+spinning,1,0
+dry,1,0
+nauseate,1,0
+sick,1,0
+flu,1,0
+vomit,1,0
+short of breath,1,0
+sleep,1,0
+sweat,1,0
+thirsty,1,0
+tire,1,0
+weak,1,0
+breathe,1,0
+breathing,1,0
+hear,1,0
+losing,1,0
+hear,1,0
+sounds are too loud,1,0
+ring,1,0
+hiss,1,0
+move one side,1,0
+pass urine,1,0
+remember,1,0
+blind,1,0
+blindness,1,0
+blurred vision,1,0
+double vision,1,0
+smell things,1,0
+speak,1,0
+swallow,1,0
+taste,1,0
+loss of appetite,1,0
+weight loss,1,0
+weight gain,1,0
+fatigue (r53),1,0
+malaise,1,0
+asthenia,1,0
+muscle weakness,1,0
+pyrexia,1,0
+pain,1,0
+tremor,1,0
+convulsions,1,0
+muscle cramps,1,0
+hypothermia,1,0
+hyperthermia,1,0
+discharge,1,0
+bleed,1,0
+swell,1,0
+deformity,1,0
+shiver,1,0
+acalculia,1,0
+acrophobia,1,0
+agnosia,1,0
+agoraphobia,1,0
+akathisia,1,0
+akinesia,1,0
+alexia,1,0
+amusia,1,0
+anhedonia,1,0
+anomia,1,0
+anosognosia,1,0
+anxiety,1,0
+apraxia,1,0
+arachnophobia,1,0
+ataxia,1,0
+bradykinesia,1,0
+cataplexy,1,0
+chorea,1,0
+claustrophobia,1,0
+confusion,1,0
+self harm,1,0
+drug overdose,1,0
+depression,1,0
+dysarthria,1,0
+dysgraphia,1,0
+dystonia,1,0
+euphoria,1,0
+hallucination,1,0
+homicidal ideation,1,0
+insomnia,1,0
+hypersomnia,1,0
+shock,1,0
+mania,1,0
+paralysis,1,0
+paranoia,1,0
+persecution,1,0
+paresthesia,1,0
+phobia,1,0
+prosopagnosia,1,0
+sciatica,1,0
+somnolence,1,0
+suicidal ideation,1,0
+tic,1,0
+blood in stool,1,0
+constipation,1,0
+diarrhea,1,0
+dysphagia,1,0
+dyspepsia,1,0
+flatulence,1,0
+nausea,1,0
+odynophagia,1,0
+proctalgia fugax,1,0
+pyrosis,1,0
+rectal malodor,1,0
+steatorrhea,1,0
+urinary frequency,1,0
+urinary incontinence,1,0
+urinary retention,1,0
+apnea,1,0
+cough,1,0
+dyspnea,1,0
+hemoptysis,1,0
+pleuritic chest pain,1,0
+rash,1,0
+infertility,1,0
+labour pain,1,0
+labour pains,1,0
+pregnancy,1,0
+pregnent,1,0
+heavy legs,1,0
+heavy leg,1,0

@@ -1,0 +1,252 @@
+word,dic_id,score
+skeleton,2,0
+skull,2,0
+joint,2,0
+ligament,2,0
+muscular system,2,0
+tendons,2,0
+digestive system,2,0
+mouth,2,0
+teeth,2,0
+tongue,2,0
+salivary glands,2,0
+parotid glands,2,0
+submandibular glands,2,0
+sublingual glands,2,0
+pharynx,2,0
+esophagus,2,0
+stomach,2,0
+small intestine,2,0
+duodenum,2,0
+jejunum,2,0
+ileum,2,0
+large intestine,2,0
+liver,2,0
+gallbladder,2,0
+pancreas,2,0
+respiratory system,2,0
+nasal cavity,2,0
+larynx,2,0
+trachea,2,0
+bronchi,2,0
+lungs,2,0
+diaphragm,2,0
+urinary system,2,0
+kidneys,2,0
+ureters,2,0
+bladder,2,0
+urethra,2,0
+ovaries,2,0
+fallopian tubes,2,0
+uterus,2,0
+vagina,2,0
+vulva,2,0
+clitoris,2,0
+placenta,2,0
+testes,2,0
+epididymis,2,0
+vas deferens,2,0
+seminal vesicles,2,0
+prostate,2,0
+bulbourethral glands,2,0
+external sex organs,2,0
+penis,2,0
+scrotum,2,0
+pituitary gland,2,0
+pineal gland,2,0
+thyroid gland,2,0
+parathyroid glands,2,0
+adrenal glands,2,0
+circulatory system,2,0
+cardiovascular system,2,0
+heart,2,0
+arteries,2,0
+vein,2,0
+capillaries,2,0
+lymphatic vessel,2,0
+lymph node,2,0
+bone marrow,2,0
+thymus,2,0
+spleen,2,0
+nervous system,2,0
+brain,2,0
+cerebral hemispheres,2,0
+diencephalon,2,0
+the brainstem,2,0
+midbrain,2,0
+pons,2,0
+medulla oblongata,2,0
+cerebellum,2,0
+the spinal cord,2,0
+the ventricular system,2,0
+choroid plexus,2,0
+nerve,2,0
+cranial nerves,2,0
+spinal nerves,2,0
+eye,2,0
+cornea,2,0
+iris ,2,0
+ciliary body,2,0
+lens,2,0
+retina,2,0
+ear,2,0
+outer ear,2,0
+earlobe,2,0
+eardrum,2,0
+middle ear,2,0
+ossicles,2,0
+inner ear,2,0
+cochlea,2,0
+vestibule of the ear,2,0
+semicircular canals,2,0
+olfactory epithelium,2,0
+taste buds,2,0
+mammary glands,2,0
+laboratory-grown organ,2,0
+organ transplantation,2,0
+skin,2,0
+subcutaneous tissue,2,0
+hand,2,0
+thumb,2,0
+index finger,2,0
+middle finger,2,0
+ring finger,2,0
+little finger,2,0
+nail,2,0
+knuckle,2,0
+head,2,0
+face,2,0
+hair ,2,0
+tongue ,2,0
+tooth ,2,0
+back ,2,0
+waist ,2,0
+chest ,2,0
+hip ,2,0
+thigh ,2,0
+muscle,2,0
+wrinkle,2,0
+neck ,2,0
+endocrine system,2,0
+eyebrow,2,0
+eyelashes,2,0
+eyelid,2,0
+feet,2,0
+femur,2,0
+fibula,2,0
+fill,2,0
+finger,2,0
+fingernail,2,0
+follicle,2,0
+foot,2,0
+forehead,2,0
+glands,2,0
+groin,2,0
+gum,2,0
+hair,2,0
+heel,2,0
+hip,2,0
+humerus,2,0
+immune system,2,0
+instep,2,0
+intestines,2,0
+iris,2,0
+jaw,2,0
+kidney,2,0
+knee,2,0
+abdomen,2,0
+adam's apple,2,0
+adenoids,2,0
+adrenal gland,2,0
+anatomy,2,0
+ankle,2,0
+anus,2,0
+appendix,2,0
+arch,2,0
+arm,2,0
+artery,2,0
+back,2,0
+ball of the foot,2,0
+belly,2,0
+belly button,2,0
+big toe,2,0
+blood,2,0
+blood vessels,2,0
+body,2,0
+bone,2,0
+breast,2,0
+buttocks,2,0
+calf,2,0
+capillary,2,0
+carpal,2,0
+cartilage,2,0
+cell,2,0
+cervical vertebrae,2,0
+cheek,2,0
+chest,2,0
+chin,2,0
+clavicle,2,0
+coccyx,2,0
+collar bone,2,0
+ear lobe,2,0
+elbow,2,0
+leg,2,0
+lip,2,0
+lobe,2,0
+lumbar vertebrae,2,0
+mandible,2,0
+metacarpal,2,0
+metatarsal,2,0
+molar,2,0
+navel,2,0
+neck,2,0
+nerve,2,0
+nipple,2,0
+nose,2,0
+nostril,2,0
+organs,2,0
+ovary,2,0
+palm,2,0
+patella,2,0
+pelvis,2,0
+phalanges,2,0
+pinky,2,0
+pituitary,2,0
+pore,2,0
+pupil,2,0
+radius,2,0
+rectum,2,0
+red blood cells,2,0
+rib,2,0
+sacrum,2,0
+scalp,2,0
+scapula,2,0
+sense,2,0
+shin,2,0
+shoulder,2,0
+shoulder blade,2,0
+sole,2,0
+spinal column,2,0
+spinal cord,2,0
+spine,2,0
+sternum,2,0
+tarsal,2,0
+tendon,2,0
+thigh,2,0
+thorax,2,0
+throat,2,0
+thyroid,2,0
+tibia,2,0
+tissue,2,0
+toe,2,0
+toenail,2,0
+tonsils,2,0
+tooth,2,0
+torso,2,0
+ulna,2,0
+ureter,2,0
+uvula,2,0
+vertebra,2,0
+waist,2,0
+white blood cells,2,0
+wrist,2,0

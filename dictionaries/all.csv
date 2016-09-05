@@ -1,0 +1,1154 @@
+id,word,dic_id,score
+1,pain,1,0
+2,abdominal pain,1,0
+3,back pain,1,0
+4,chest pain,1,0
+5,pelvic pain,1,0
+6,vaginal pain,1,0
+7,rectal pain,1,0
+8,headache,1,0
+9,chronic,1,0
+10,toothache,1,0
+11,ache,1,0
+12,chill,1,0
+13,fever,1,0
+14,numbness,1,0
+15,tingling,1,0
+16,electric tweaks,1,0
+17,light-headed,1,0
+18,dizzy,1,0
+19,about to black out,1,0
+20,spinning,1,0
+21,dry,1,0
+22,nauseate,1,0
+23,sick,1,0
+24,flu,1,0
+25,vomit,1,0
+26,short of breath,1,0
+27,sleep,1,0
+28,sweat,1,0
+29,thirsty,1,0
+30,tire,1,0
+31,weak,1,0
+32,breathe,1,0
+33,breathing,1,0
+34,hear,1,0
+35,losing,1,0
+36,sounds are too loud,1,0
+37,ring,1,0
+38,hiss,1,0
+39,move one side,1,0
+40,pass urine,1,0
+41,remember,1,0
+42,blind,1,0
+43,blindness,1,0
+44,blurred vision,1,0
+45,double vision,1,0
+46,smell things,1,0
+47,speak,1,0
+48,swallow,1,0
+49,taste,1,0
+50,loss of appetite,1,0
+51,weight loss,1,0
+52,weight gain,1,0
+53,fatigue (r53),1,0
+54,malaise,1,0
+55,asthenia,1,0
+56,muscle weakness,1,0
+57,pyrexia,1,0
+58,tremor,1,0
+59,convulsions,1,0
+60,muscle cramps,1,0
+61,hypothermia,1,0
+62,hyperthermia,1,0
+63,discharge,1,0
+64,bleed,1,0
+65,swell,1,0
+66,deformity,1,0
+67,shiver,1,0
+68,acalculia,1,0
+69,acrophobia,1,0
+70,agnosia,1,0
+71,agoraphobia,1,0
+72,akathisia,1,0
+73,akinesia,1,0
+74,alexia,1,0
+75,amusia,1,0
+76,anhedonia,1,0
+77,anomia,1,0
+78,anosognosia,1,0
+79,anxiety,1,0
+80,apraxia,1,0
+81,arachnophobia,1,0
+82,ataxia,1,0
+83,bradykinesia,1,0
+84,cataplexy,1,0
+85,chorea,1,0
+86,claustrophobia,1,0
+87,confusion,1,0
+88,self harm,1,0
+89,drug overdose,1,0
+90,depression,1,0
+91,dysarthria,1,0
+92,dysgraphia,1,0
+93,dystonia,1,0
+94,euphoria,1,0
+95,hallucination,1,0
+96,homicidal ideation,1,0
+97,insomnia,1,0
+98,hypersomnia,1,0
+99,shock,1,0
+100,mania,1,0
+101,paralysis,1,0
+102,paranoia,1,0
+103,persecution,1,0
+104,paresthesia,1,0
+105,phobia,1,0
+106,prosopagnosia,1,0
+107,sciatica,1,0
+108,somnolence,1,0
+109,suicidal ideation,1,0
+110,tic,1,0
+111,blood in stool,1,0
+112,constipation,1,0
+113,diarrhea,1,0
+114,dysphagia,1,0
+115,dyspepsia,1,0
+116,flatulence,1,0
+117,nausea,1,0
+118,odynophagia,1,0
+119,proctalgia fugax,1,0
+120,pyrosis,1,0
+121,rectal malodor,1,0
+122,steatorrhea,1,0
+123,urinary frequency,1,0
+124,urinary incontinence,1,0
+125,urinary retention,1,0
+126,apnea,1,0
+127,cough,1,0
+128,dyspnea,1,0
+129,hemoptysis,1,0
+130,pleuritic chest pain,1,0
+131,rash,1,0
+132,infertility,1,0
+133,labour pain,1,0
+134,labour pains,1,0
+135,pregnancy,1,0
+136,pregnent,1,0
+137,heavy legs,1,0
+138,heavy leg,1,0
+139,skeleton,2,0
+140,skull,2,0
+141,joint,2,0
+142,ligament,2,0
+143,muscular system,2,0
+144,tendons,2,0
+145,digestive system,2,0
+146,mouth,2,0
+147,teeth,2,0
+148,tongue,2,0
+149,salivary glands,2,0
+150,parotid glands,2,0
+151,submandibular glands,2,0
+152,sublingual glands,2,0
+153,pharynx,2,0
+154,esophagus,2,0
+155,stomach,2,0
+156,small intestine,2,0
+157,duodenum,2,0
+158,jejunum,2,0
+159,ileum,2,0
+160,large intestine,2,0
+161,liver,2,0
+162,gallbladder,2,0
+163,pancreas,2,0
+164,respiratory system,2,0
+165,nasal cavity,2,0
+166,larynx,2,0
+167,trachea,2,0
+168,bronchi,2,0
+169,lungs,2,0
+170,diaphragm,2,0
+171,urinary system,2,0
+172,kidneys,2,0
+173,ureters,2,0
+174,bladder,2,0
+175,urethra,2,0
+176,ovaries,2,0
+177,fallopian tubes,2,0
+178,uterus,2,0
+179,vagina,2,0
+180,vulva,2,0
+181,clitoris,2,0
+182,placenta,2,0
+183,testes,2,0
+184,epididymis,2,0
+185,vas deferens,2,0
+186,seminal vesicles,2,0
+187,prostate,2,0
+188,bulbourethral glands,2,0
+189,external sex organs,2,0
+190,penis,2,0
+191,scrotum,2,0
+192,pituitary gland,2,0
+193,pineal gland,2,0
+194,thyroid gland,2,0
+195,parathyroid glands,2,0
+196,adrenal glands,2,0
+197,circulatory system,2,0
+198,cardiovascular system,2,0
+199,heart,2,0
+200,arteries,2,0
+201,vein,2,0
+202,capillaries,2,0
+203,lymphatic vessel,2,0
+204,lymph node,2,0
+205,bone marrow,2,0
+206,thymus,2,0
+207,spleen,2,0
+208,nervous system,2,0
+209,brain,2,0
+210,cerebral hemispheres,2,0
+211,diencephalon,2,0
+212,the brainstem,2,0
+213,midbrain,2,0
+214,pons,2,0
+215,medulla oblongata,2,0
+216,cerebellum,2,0
+217,the spinal cord,2,0
+218,the ventricular system,2,0
+219,choroid plexus,2,0
+220,nerve,2,0
+221,cranial nerves,2,0
+222,spinal nerves,2,0
+223,eye,2,0
+224,cornea,2,0
+225,iris ,2,0
+226,ciliary body,2,0
+227,lens,2,0
+228,retina,2,0
+229,ear,2,0
+230,outer ear,2,0
+231,earlobe,2,0
+232,eardrum,2,0
+233,middle ear,2,0
+234,ossicles,2,0
+235,inner ear,2,0
+236,cochlea,2,0
+237,vestibule of the ear,2,0
+238,semicircular canals,2,0
+239,olfactory epithelium,2,0
+240,taste buds,2,0
+241,mammary glands,2,0
+242,laboratory-grown organ,2,0
+243,organ transplantation,2,0
+244,skin,2,0
+245,subcutaneous tissue,2,0
+246,hand,2,0
+247,thumb,2,0
+248,index finger,2,0
+249,middle finger,2,0
+250,ring finger,2,0
+251,little finger,2,0
+252,nail,2,0
+253,knuckle,2,0
+254,head,2,0
+255,face,2,0
+256,hair ,2,0
+257,tongue ,2,0
+258,tooth ,2,0
+259,backside ,2,0
+260,waist ,2,0
+261,chest ,2,0
+262,hip ,2,0
+263,thigh ,2,0
+264,muscle,2,0
+265,wrinkle,2,0
+266,neck ,2,0
+267,endocrine system,2,0
+268,eyebrow,2,0
+269,eyelashes,2,0
+270,eyelid,2,0
+271,feet,2,0
+272,femur,2,0
+273,fibula,2,0
+274,fill,2,0
+275,finger,2,0
+276,fingernail,2,0
+277,follicle,2,0
+278,foot,2,0
+279,forehead,2,0
+280,glands,2,0
+281,groin,2,0
+282,gum,2,0
+283,hair,2,0
+284,heel,2,0
+285,hip,2,0
+286,humerus,2,0
+287,immune system,2,0
+288,instep,2,0
+289,intestines,2,0
+290,iris,2,0
+291,jaw,2,0
+292,kidney,2,0
+293,knee,2,0
+294,abdomen,2,0
+295,adam's apple,2,0
+296,adenoids,2,0
+297,adrenal gland,2,0
+298,anatomy,2,0
+299,ankle,2,0
+300,anus,2,0
+301,appendix,2,0
+302,arch,2,0
+303,arm,2,0
+304,artery,2,0
+305,back,4,1
+306,ball of the foot,2,0
+307,belly,2,0
+308,belly button,2,0
+309,big toe,2,0
+310,blood,2,0
+311,blood vessels,2,0
+312,body,2,0
+313,bone,2,0
+314,breast,2,0
+315,buttocks,2,0
+316,calf,2,0
+317,capillary,2,0
+318,carpal,2,0
+319,cartilage,2,0
+320,cell,2,0
+321,cervical vertebrae,2,0
+322,cheek,2,0
+323,chest,2,0
+324,chin,2,0
+325,clavicle,2,0
+326,coccyx,2,0
+327,collar bone,2,0
+328,ear lobe,2,0
+329,elbow,2,0
+330,leg,2,0
+331,lip,2,0
+332,lobe,2,0
+333,lumbar vertebrae,2,0
+334,mandible,2,0
+335,metacarpal,2,0
+336,metatarsal,2,0
+337,molar,2,0
+338,navel,2,0
+339,neck,2,0
+340,nipple,2,0
+341,nose,2,0
+342,nostril,2,0
+343,organs,2,0
+344,ovary,2,0
+345,palm,2,0
+346,patella,2,0
+347,pelvis,2,0
+348,phalanges,2,0
+349,pinky,2,0
+350,pituitary,2,0
+351,pore,2,0
+352,pupil,2,0
+353,radius,2,0
+354,rectum,2,0
+355,red blood cells,2,0
+356,rib,2,0
+357,sacrum,2,0
+358,scalp,2,0
+359,scapula,2,0
+360,sense,2,0
+361,shin,2,0
+362,shoulder,2,0
+363,shoulder blade,2,0
+364,sole,2,0
+365,spinal column,2,0
+366,spinal cord,2,0
+367,spine,2,0
+368,sternum,2,0
+369,tarsal,2,0
+370,tendon,2,0
+371,thigh,2,0
+372,thorax,2,0
+373,throat,2,0
+374,thyroid,2,0
+375,tibia,2,0
+376,tissue,2,0
+377,toe,2,0
+378,toenail,2,0
+379,tonsils,2,0
+380,tooth,2,0
+381,torso,2,0
+382,ulna,2,0
+383,ureter,2,0
+384,uvula,2,0
+385,vertebra,2,0
+386,waist,2,0
+387,white blood cells,2,0
+388,wrist,2,0
+389,gastroesophageal reflux disease,3,0
+390,dysphonia,3,0
+391,heartburn,3,0
+392,gerd,3,0
+393,acne,3,0
+394,papule,3,0
+395,pustule,3,0
+396,nodule,3,0
+397,allergy,3,0
+398,rhinit,3,0
+399,bloating,3,0
+400,antocial personality disorder,3,0
+401,impulsivity,3,0
+402,dysphoria,3,0
+403,dregard for right and wrong,3,0
+404,attention deficit hyperactivit,3,0
+405,boredom,3,0
+406,hyperactivity,3,0
+407,lack of concentration,3,0
+408,adhd/addaltitude sickness,3,0
+409,altitude sickness,3,0
+410,alzheimer's disease,3,0
+411,aggression,3,0
+412,andropause,3,0
+413,anorexia nervosa,3,0
+414,extreme weight loss,3,0
+415,emaciation,3,0
+416,xeroderma,3,0
+417,arthritis,3,0
+418,night sweats,3,0
+419,asperger syndrome,3,0
+420,asthma,3,0
+421,nocturnal cough,3,0
+422,cardiac arrest,3,0
+423,autm,3,0
+424,self-harm,3,0
+425,restricted behavior,3,0
+426,stereotypy,3,0
+427,avoidant personality disorder,3,0
+428,self-loathing,3,0
+429,inferiority complex,3,0
+430,extreme shyness,3,0
+431,bad breath,3,0
+432,halitosalopecia,3,0
+433,alopecia,3,0
+434,itchy scalp,3,0
+435,bedwetting,3,0
+436,bipolar disorder,3,0
+437,sadness,3,0
+438,bladder cancer,3,0
+439,dysuria,3,0
+440,anorexia,3,0
+441,body dysmorphic disorder,3,0
+442,borderline personality disorder,3,0
+443,dsociative disorder,3,0
+444,bpd,3,0
+445,bone cancer,3,0
+446,brain cancer,3,0
+447,breast cancer,3,0
+448,breast lump,3,0
+449,paget's disease of the breast,3,0
+450,nipple dchargebrain tumor,3,0
+451,brain tumor,3,0
+452,diplopia,3,0
+453,blurred vion,3,0
+454,traumatic brain injury,3,0
+455,quadriplegia,3,0
+456,acute bronchit,3,0
+457,acute bronchitburns,3,0
+458,burnsbursit,3,0
+459,bursit,3,0
+460,erythema,3,0
+461,joint stiffness,3,0
+462,cancer,3,0
+463,cerebella tumor,3,0
+464,medulloblastoma,3,0
+465,canker sores,3,0
+466,carpal tunnel syndrome,3,0
+467,cts,3,0
+468,celiac disease,3,0
+469,failure to thrive,3,0
+470,fatigue,3,0
+471,mouth ulcer,3,0
+472,cervical cancer,3,0
+473,vaginal bleeding,3,0
+474,increased vaginal discharge ,3,0
+475,chronic obstructive pulmonary ,3,0
+476,sputum,3,0
+477,chronic cough,3,0
+478,copd,3,0
+479,colorectal cancer,3,0
+480,narrow stools,3,0
+481,heart failure,3,0
+482,dizziness,3,0
+483,nocturia,3,0
+484,chf,3,0
+485,cradle cap,3,0
+486,crohn's disease,3,0
+487,autoimmune hemolytic anemia,3,0
+488,sclerit,3,0
+489,dandruff,3,0
+490,deep vein thrombos,3,0
+491,dvt,3,0
+492,dehydration,3,0
+493,enophthalmia,3,0
+494,dependent personality disorder,3,0
+495,dependent personality disorderdepression,3,0
+496,diabetes mellitus,3,0
+497,polyphagia,3,0
+498,acanthos nigricans,3,0
+499,hyperglycemia,3,0
+500,irritant diaper dermatit,3,0
+501,skin rash,3,0
+502,diarrheadabilities,3,0
+503,dabilitiesdiverticulit,3,0
+504,diverticulit,3,0
+505,tenderness,3,0
+506,down syndrome,3,0
+507,congenital heart defect,3,0
+508,mental retardation,3,0
+509,short stature,3,0
+510,drug abuse,3,0
+511,dysfunctional uterine bleeding,3,0
+512,dub,3,0
+513,dyslexia,3,0
+514,vual verbal agnosia,3,0
+515,speech disorder,3,0
+516,delayed reading ability,3,0
+517,ear infections,3,0
+518,ear infectionsear problems,3,0
+519,ear problems,3,0
+520,eating disorders,3,0
+521,eating disordersdermatit,3,0
+522,dermatit,3,0
+523,blter,3,0
+524,endometrios,3,0
+525,dysmenorrhea,3,0
+526,irregular menstruation,3,0
+527,benign prostatic hyperplasia,3,0
+528,post-void dribbling,3,0
+529,hematuria,3,0
+530,epilepsy,3,0
+531,tonicâ€“clonic seizure,3,0
+532,blank stare,3,0
+533,mental confusion,3,0
+534,seizure,3,0
+535,erectile dysfunction,3,0
+536,soft erections,3,0
+537,sexual dysfunction,3,0
+538,priapm,3,0
+539,edeye problems,3,0
+540,eye problemsfibromyalgia,3,0
+541,fibromyalgiafracture,3,0
+542,fracturefreckle,3,0
+543,freckle,3,0
+544,gallbladder disease,3,0
+545,gallstone,3,0
+546,pale feces,3,0
+547,jaundice,3,0
+548,generalized anxiety disorder,3,0
+549,herpes simplex,3,0
+550,perianal pain,3,0
+551,genital wart,3,0
+552,glomerulonephrit,3,0
+553,edema,3,0
+554,proteinuria,3,0
+555,nephrit,3,0
+556,gonorrhea,3,0
+557,swollen testicle,3,0
+558,gout,3,0
+559,joint pain,3,0
+560,tophus,3,0
+561,gum diseases,3,0
+562,gynecomastia,3,0
+563,breast enlargement,3,0
+564,mastodynia,3,0
+565,head lice,3,0
+566,deafness,3,0
+567,myocardial infarction,3,0
+568,sweating,3,0
+569,cardiovascular disease,3,0
+570,palpitation,3,0
+571,heat stroke,3,0
+572,cramp,3,0
+573,coma,3,0
+574,tachypneaheel pain,3,0
+575,heel painhemorrhage,3,0
+576,hemorrhage,3,0
+577,hemorrhoids,3,0
+578,anal swelling,3,0
+579,hepatitis,3,0
+580,lymphadenopathyherniated dcs,3,0
+581,herniated dcshiatal hernia,3,0
+582,hiatal hernia,3,0
+583,htrionic personality disorder,3,0
+584,aids,3,0
+585,candidias,3,0
+586,opportuntic infection,3,0
+587,hiv,3,0
+588,lymphadenopathy,3,0
+589,flu-like symptoms,3,0
+590,hives,3,0
+591,angioedema,3,0
+592,skin rashhyperglycemia,3,0
+593,high blood sugar,3,0
+594,hyperkalemia,3,0
+595,high potassium,3,0
+596,hypertension,3,0
+597,asymptomatic,3,0
+598,high blood pressure,3,0
+599,hyperthyroidm,3,0
+600,thyrotoxicos,3,0
+601,hypothyroidm,3,0
+602,infectious diseases,3,0
+603,infectious mononucleos,3,0
+604,glandular fever,3,0
+605,influenza,3,0
+606,watery eyes,3,0
+607,red eye,3,0
+608,hormonal disorders,3,0
+609,type  diabetes,3,0
+610,polydipsia,3,0
+611,iron deficiency anemia,3,0
+612,clouding of consciousness,3,0
+613,menorrhagia,3,0
+614,irritable bowel syndrome,3,0
+615,rectal tenesmus,3,0
+616,ibs,3,0
+617,irritable male syndrome,3,0
+618,itching,3,0
+619,juvenile diabetes,3,0
+620,chronic childhood arthrit,3,0
+621,eye inflammation,3,0
+622,jra,3,0
+623,nephropathy,3,0
+624,kidney stone,3,0
+625,foul smelling urine,3,0
+626,renal calculi,3,0
+627,leukemia,3,0
+628,infection,3,0
+629,liver tumour,3,0
+630,hepatocellular carcinoma (hcc),3,0
+631,lung cancer,3,0
+632,nail clubbing,3,0
+633,cachexia,3,0
+634,bovine spongiform encephalopat,3,0
+635,bovine spongiform encephalopathy,3,0
+636,malaria,3,0
+637,chills,3,0
+638,melena,3,0
+639,memory loss,3,0
+640,menopause,3,0
+641,hot flash,3,0
+642,vaginal dryness,3,0
+643,mesothelioma,3,0
+644,migraine,3,0
+645,mcarriage,3,0
+646,metrorrhagia,3,0
+647,mucus in stooldsociative identity disorder,3,0
+648,dsociative identity disorder,3,0
+649,multiple scleros,3,0
+650,optic papillit,3,0
+651,horner's syndrome,3,0
+652,ms,3,0
+653,muscle fatigue,3,0
+654,muscle pain,3,0
+655,nail bitingnarcstic personality dor,3,0
+656,narcstic personality disorder,3,0
+657,neck painobesity,3,0
+658,obesity,3,0
+659,snoring,3,0
+660,obsessive-compulsive disorder,3,0
+661,intrusive thoughts,3,0
+662,sexual obsessions,3,0
+663,purely obsessional ocd,3,0
+664,ocd,3,0
+665,osteoarthrit,3,0
+666,stiffness,3,0
+667,oa,3,0
+668,osteomyelit,3,0
+669,lumbago,3,0
+670,osteoporos,3,0
+671,kyphos,3,0
+672,loss of height,3,0
+673,ovarian cancer,3,0
+674,polycystic ovary syndrome,3,0
+675,amenorrhoea,3,0
+676,panic attack,3,0
+677,paranoid personality disorder,3,0
+678,parkinson's disease,3,0
+679,drooling,3,0
+680,hypomimia,3,0
+681,pd,3,0
+682,pen enlargementperipheral vascular disease,3,0
+683,peripheral vascular disease,3,0
+684,pad,3,0
+685,personality disorder,3,0
+686,peptic ulcer,3,0
+687,pervasive developmental disorder,3,0
+688,pdd,3,0
+689,peyronie's disease,3,0
+690,pen shortening,3,0
+691,painful erections,3,0
+692,conjunctivity,3,0
+693,eye discharge,3,0
+694,hyperaemia,3,0
+695,pink eye,3,0
+696,poliomyelit,3,0
+697,flaccid paralys,3,0
+698,pneumonia,3,0
+699,post-nasal drip,3,0
+700,posttraumatic stress disorder,3,0
+701,flashback,3,0
+702,self-destructive behaviour,3,0
+703,ptsd,3,0
+704,preterm birth,3,0
+705,premenstrual syndrome ,3,0
+706,premenstrual syndrome,3,0
+707,change in sexual interest,3,0
+708,pms,3,0
+709,propecia,3,0
+710,prostate cancer,3,0
+711,painful ejaculation,3,0
+712,psorias,3,0
+713,plaque,3,0
+714,reactive attachment disorder,3,0
+715,rad,3,0
+716,renal failure,3,0
+717,restless legs syndrome,3,0
+718,urge to move,3,0
+719,motor restlessness,3,0
+720,vague uncomfortable sensations,3,0
+721,rls,3,0
+722,rheumatoid arthritis,3,0
+723,vasculit,3,0
+724,ra,3,0
+725,rheumatic fever,3,0
+726,sydenham's chorea,3,0
+727,ringworm,3,0
+728,scaly skin,3,0
+729,rosacea,3,0
+730,ocular rosacea,3,0
+731,rhinophyma,3,0
+732,rotator cuff,3,0
+733,scabies,3,0
+734,scarssciatica,3,0
+735,severe acute respiratory syndrome,3,0
+736,sars,3,0
+737,schizoid personality disorder,3,0
+738,schizophrenia,3,0
+739,thought insertion,3,0
+740,avolition,3,0
+741,sexually transmitted disease,3,0
+742,std,3,0
+743,sinusit,3,0
+744,nasal congestion,3,0
+745,skin cancer,3,0
+746,skin ulcer,3,0
+747,skin lesion,3,0
+748,melanocytic nevus,3,0
+749,sleep disorder,3,0
+750,sleep apnea,3,0
+751,smallpox,3,0
+752,enanthem,3,0
+753,macule,3,0
+754,snoringsocial anxiety disorder,3,0
+755,social anxiety disorder,3,0
+756,staphylococcus aureus,3,0
+757,mrsa,3,0
+758,stomach cancer,3,0
+759,bleeding,3,0
+760,streptococcal pharyngit,3,0
+761,malae,3,0
+762,sore throat,3,0
+763,sudden infant death syndrome,3,0
+764,sids,3,0
+765,sunburn,3,0
+766,warm skin,3,0
+767,syphil,3,0
+768,systemic lupus erythematosus,3,0
+769,sle,3,0
+770,tenn elbow,3,0
+771,termination of pregnancy,3,0
+772,abortiontesticular cancer,3,0
+773,testicular cancer,3,0
+774,painless testicular lump,3,0
+775,tooth decay,3,0
+776,edwards syndrome,3,0
+777,tuberculos,3,0
+778,tb,3,0
+779,ulcers,3,0
+780,urinary tract infection,3,0
+781,urethrit,3,0
+782,urinary urgency,3,0
+783,uti,3,0
+784,varicose veins,3,0
+785,stas dermatit,3,0
+786,vertigo,3,0
+787,vion disorder,3,0
+788,wart,3,0
+789,williams syndrome,3,0
+790,vaginal tenderness,3,0
+791,yeast infection,3,0
+792,yellow fever,3,0
+793,severe,4,2
+794,serious,4,2
+795,high,4,3
+796,low,4,4
+797,medium,4,3
+798,few,4,8
+799,little,4,4
+800,harsh,4,2
+801,relentless,4,6
+802,hard,4,2
+803,bearable,4,3
+804,unbearable,4,2
+805,acute,4,2
+806,arduous,4,2
+807,difficult,4,3
+808,distress,4,3
+809,overwhelm,4,3
+810,sharp,4,3
+811,spare,4,7
+812,less,4,8
+813,fewer,4,8
+814,insufficient,4,8
+815,thick,4,7
+816,significant,4,7
+817,lesser,4,8
+818,lack,4,8
+819,reduce,4,8
+820,short,4,8
+821,shorter,4,8
+822,slight,4,8
+823,slighter,4,8
+824,limit,4,6
+825,scatter,4,8
+826,frequant,4,7
+827,infrequant,4,8
+828,occasional,4,8
+829,scanty,4,8
+830,scarce,4,8
+831,usual,4,6
+832,unusual,4,8
+833,casual,4,8
+834,desultory,4,8
+835,especial,4,8
+836,exceptional,4,8
+837,exclusive,4,8
+838,incidental,4,8
+839,infrequent,4,8
+840,intermittent,4,8
+841,odd,4,8
+842,particular,4,8
+843,random,4,8
+844,rare,4,8
+845,seldom,4,8
+846,special,4,8
+847,specific,4,8
+848,uncommon,4,8
+849,unfrequent,4,8
+850,attenuate,4,8
+851,deficient,4,8
+852,extraordinary,4,8
+853,few and far between,4,8
+854,flimsy,4,8
+855,inconceivable,4,8
+856,isolate,4,8
+857,light,4,8
+858,out of the ordinary,4,8
+859,rarefy,4,8
+860,semioccasional,4,8
+861,singular,4,8
+862,sparse,4,8
+863,sporadic,4,8
+864,strange,4,8
+865,subtile,4,8
+866,subtle,4,8
+867,tenuous,4,8
+868,thin,4,8
+869,unheard of,4,8
+870,unimaginable,4,8
+871,unique,4,8
+872,unlikely,4,8
+873,unthinkable,4,8
+874,unwonted,4,8
+875,at a premium,4,8
+876,seldom met with,4,8
+877,shorten,4,8
+878,shy,4,8
+879,truncate,4,8
+880,want,4,8
+881,exaggerate,4,7
+882,amplify,4,7
+883,shrink,4,7
+884,deepen,4,7
+885,enhance,4,7
+886,exacerbate,4,7
+887,heighten,4,7
+888,increase,4,7
+889,inflame,4,7
+890,intensify,4,7
+891,magnify,4,7
+892,mount,4,7
+893,rise,4,7
+894,add,4,7
+895,augment,4,7
+896,beef up,4,7
+897,boost,4,7
+898,build up,4,7
+899,develop,4,7
+900,elaborate,4,7
+901,enlarge,4,7
+902,expand,4,7
+903,expatiate,4,7
+904,extend,4,7
+905,flesh out,4,7
+906,hike up,4,7
+907,inflate,4,7
+908,jack up,4,7
+909,lengthen,4,7
+910,pyramid,4,7
+911,raise,4,7
+912,soup up,4,7
+913,strengthen,4,7
+914,stretch,4,7
+915,supplement,4,7
+916,up,4,7
+917,widen,4,7
+918,overstate,4,7
+919,advance,4,7
+920,aggrandize,4,7
+921,aggravate,4,7
+922,annex,4,7
+923,broaden,4,7
+924,build,4,7
+925,dilate,4,7
+926,distend,4,7
+927,double,4,7
+928,escalate,4,7
+929,further,4,7
+930,mark up,4,7
+931,multiply,4,7
+932,progress,4,7
+933,proliferate,4,7
+934,prolong,4,7
+935,protract,4,7
+936,pullulate,4,7
+937,redouble,4,7
+938,reinforce,4,7
+939,sharpen,4,7
+940,slap on,4,7
+941,snowball,4,7
+942,spread,4,7
+943,step up,4,7
+944,swarm,4,7
+945,tack on,4,7
+946,teem,4,7
+947,thicken,4,7
+948,triple,4,7
+949,wax,4,7
+950,aerate,4,7
+951,balloon,4,7
+952,bloat,4,7
+953,cram,4,7
+954,exalt,4,7
+955,maximize,4,7
+956,overestimate,4,7
+957,puff up,4,7
+958,pump up,4,7
+959,lower,4,1
+960,front,4,1
+961,right,4,1
+962,side,4,1
+963,negative,4,5
+964,positive,4,9
+965,fine,4,9
+966,good,4,9
+967,ok,4,9
+968,solid,4,9
+969,bad,4,5
+970,neat,4,9
+971,great,4,9
+972,acceptable,4,9
+973,satisfy,4,9
+974,awesome,4,9
+975,poor,4,5
+976,dreadful,4,2
+977,unacceptable,4,5
+978,abominable,4,5
+979,awful,4,2
+980,beastly,4,5
+981,contemptible,4,5
+982,curse,4,5
+983,despicable,4,5
+984,disgust,4,5
+985,foul,4,5
+986,grim,4,5
+987,grody,4,5
+988,gross,4,2
+989,hairy,4,5
+990,hateful,4,5
+991,heinous,4,5
+992,hellish,4,5
+993,horrible,4,5
+994,horrid,4,5
+995,loathsome,4,5
+996,lousy,4,5
+997,obnoxious,4,5
+998,odious,4,5
+999,offensive,4,5
+1000,repellent,4,5
+1001,reprehensible,4,5
+1002,repugnant,4,5
+1003,repulsive,4,5
+1004,revolt,4,5
+1005,rotten,4,5
+1006,sleazy,4,5
+1007,stink,4,5
+1008,terrible,4,2
+1009,vile,4,2
+1010,wretched,4,2
+1011,monstrous,4,2
+1012,nefarious,4,2
+1013,scandalous,4,2
+1014,not,4,5
+1015,nothing,4,5
+1016,morning,5,0
+1017,noon,5,0
+1018,afternoon,5,0
+1019,evening,5,0
+1020,night,5,0
+1021,midnight,5,0
+1022,next,4,10
+1023,last,4,10
+1024,previous,4,10
+1025,some,4,8
+1026,ago,4,10
+1027,later,4,10
+1028,year,5,0
+1029,month,5,0
+1030,week,5,0
+1031,day,5,0
+1032,hour,5,0
+1033,minute,5,0
+1034,second,4,0
+1035,yesterday,5,0
+1036,tomorrow,5,0
+1037,daily,5,0
+1038,every,4,0
+1039,time,5,0
+1040,barely,4,8
+1041,excess,4,7
+1042,excessive,4,7
+1043,january,5,1
+1044,february,5,1
+1045,march,5,1
+1046,april,5,1
+1047,may,5,1
+1048,june,5,1
+1049,july,5,1
+1050,august,5,1
+1051,september,5,1
+1052,october,5,1
+1053,november,5,1
+1054,december,5,1
+1055,male,4,12
+1056,female,4,13
+1057,man,4,12
+1058,woman,4,13
+1059,husband,4,12
+1060,wife,4,13
+1061,son,4,12
+1062,daughter,4,13
+1063,father,4,12
+1064,mother,4,13
+1065,aunt,4,13
+1066,uncle,4,12
+1067,bf,4,12
+1068,gf,4,13
+1069,boyfriend,4,12
+1070,girlfriend,4,13
+1071,age,4,14
+1072,old,4,14
+1073,and,4,0
+1074,but,4,0
+1075,though,4,0
+1076,moreover,4,0
+1077,however,4,0
+1078,therefore,4,0
+1079,don’t,4,8
+1080,cant,4,8
+1081,wont,4,8
+1082,before,4,10
+1083,after,4,10
+1084,often,5,0
+1085,others,4,0
+1086,worse,4,2
+1087,nervous,1,0
+1088,worst,4,2
+1089,recently,5,0
+1090,movable,1,0
+1091,itchy,1,0
+1092,gritty,1,0
+1093,gley,1,0
+1094,sticky,1,0
+1095,red,4,15
+1096,green,4,15
+1097,yellow,4,15
+1098,black,4,15
+1099,orange,4,15
+1100,blue,4,15
+1101,white,4,15
+1102,stool,2,0
+1103,his,4,12
+1104,her,4,13
+1105,she,4,13
+1106,today,5,0
+1107,dangerous,4,2
+1108,never,4,5
+1109,past,4,10
+1110,friend,4,0
+1111,hit,1,0
+1112,extreme,4,2
+1113,several,4,8
+1114,sometimes,4,8
+1115,more,4,7
+1116,normal,4,6
+1117,urine scan,6,3
+1118,blood test,6,3
+1119,scan,6,3
+1120,test,6,3
+1121,qetiapine,6,1
+1122,psychiatrist,6,2
+1123,podiatrist,6,2
+1124,meds,6,1
+1125,medication,6,1
+1126,neorologist,6,2
+1127,propranolol,6,1
+1128,medicine,6,1
+1129,vitamins,6,1
+1130,tablets,6,1
+1131,antacid,6,1
+1132,slow,4,8
+1133,below,4,1
+1134,infliximab,6,1
+1135,echography,6,3
+1136,contact lens,6,1
+1137,ct scan,6,3
+1138,ecg,6,3
+1139,hospital,6,2
+1140,hospitalized,6,2
+1141,treatment,6,2
+1142,treated,6,2
+1143,with,4,0
+1144,to,4,0
+1145,the,4,0
+1146,these,4,0
+1147,this,4,0
+1148,that,4,0
+1149,or,4,0
+1150,if,4,0
+1151,leave,4,1
+1152,doctor,6,2
+1153,weekend,5,0

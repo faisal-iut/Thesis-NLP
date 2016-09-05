@@ -1,0 +1,414 @@
+word,dic_id,score
+gastroesophageal reflux disease,3,0
+dysphonia,3,0
+heartburn,3,0
+gerd,3,0
+acne,3,0
+papule,3,0
+pustule,3,0
+nodule,3,0
+allergy,3,0
+rhinit,3,0
+dyspnea,3,0
+bloating,3,0
+antocial personality disorder,3,0
+impulsivity,3,0
+dysphoria,3,0
+dregard for right and wrong,3,0
+attention deficit hyperactivit,3,0
+boredom,3,0
+hyperactivity,3,0
+lack of concentration,3,0
+adhd/addaltitude sickness,3,0
+altitude sickness,3,0
+alzheimer's disease,3,0
+aggression,3,0
+andropause,3,0
+anorexia nervosa,3,0
+extreme weight loss,3,0
+emaciation,3,0
+xeroderma,3,0
+arthritis,3,0
+night sweats,3,0
+asperger syndrome,3,0
+asthma,3,0
+nocturnal cough,3,0
+cardiac arrest,3,0
+autm,3,0
+self-harm,3,0
+restricted behavior,3,0
+stereotypy,3,0
+avoidant personality disorder,3,0
+self-loathing,3,0
+inferiority complex,3,0
+extreme shyness,3,0
+bad breath,3,0
+halitosalopecia,3,0
+alopecia,3,0
+itchy scalp,3,0
+bedwetting,3,0
+bipolar disorder,3,0
+sadness,3,0
+bladder cancer,3,0
+dysuria,3,0
+anorexia,3,0
+body dysmorphic disorder,3,0
+borderline personality disorder,3,0
+dsociative disorder,3,0
+bpd,3,0
+bone cancer,3,0
+brain cancer,3,0
+breast cancer,3,0
+breast lump,3,0
+paget's disease of the breast,3,0
+nipple dchargebrain tumor,3,0
+brain tumor,3,0
+nausea,3,0
+diplopia,3,0
+blurred vion,3,0
+traumatic brain injury,3,0
+quadriplegia,3,0
+acute bronchit,3,0
+acute bronchitburns,3,0
+burnsbursit,3,0
+bursit,3,0
+erythema,3,0
+joint stiffness,3,0
+cancer,3,0
+cerebella tumor,3,0
+medulloblastoma,3,0
+canker sores,3,0
+carpal tunnel syndrome,3,0
+muscle weakness,3,0
+cts,3,0
+celiac disease,3,0
+failure to thrive,3,0
+fatigue,3,0
+mouth ulcer,3,0
+cervical cancer,3,0
+vaginal bleeding,3,0
+increased vaginal discharge ,3,0
+chronic obstructive pulmonary ,3,0
+sputum,3,0
+chronic cough,3,0
+copd,3,0
+colorectal cancer,3,0
+narrow stools,3,0
+heart failure,3,0
+dizziness,3,0
+nocturia,3,0
+chf,3,0
+cradle cap,3,0
+crohn's disease,3,0
+autoimmune hemolytic anemia,3,0
+sclerit,3,0
+dandruff,3,0
+deep vein thrombos,3,0
+dvt,3,0
+dehydration,3,0
+enophthalmia,3,0
+dependent personality disorder,3,0
+dependent personality disorderdepression,3,0
+diabetes mellitus,3,0
+polyphagia,3,0
+acanthos nigricans,3,0
+hyperglycemia,3,0
+irritant diaper dermatit,3,0
+skin rash,3,0
+diarrhea,3,0
+diarrheadabilities,3,0
+dabilitiesdiverticulit,3,0
+diverticulit,3,0
+tenderness,3,0
+down syndrome,3,0
+congenital heart defect,3,0
+mental retardation,3,0
+short stature,3,0
+drug abuse,3,0
+dysfunctional uterine bleeding,3,0
+dub,3,0
+dyslexia,3,0
+vual verbal agnosia,3,0
+speech disorder,3,0
+delayed reading ability,3,0
+ear infections,3,0
+ear infectionsear problems,3,0
+ear problems,3,0
+eating disorders,3,0
+eating disordersdermatit,3,0
+dermatit,3,0
+blter,3,0
+endometrios,3,0
+dysmenorrhea,3,0
+irregular menstruation,3,0
+benign prostatic hyperplasia,3,0
+post-void dribbling,3,0
+hematuria,3,0
+epilepsy,3,0
+tonic–clonic seizure,3,0
+blank stare,3,0
+mental confusion,3,0
+seizure,3,0
+erectile dysfunction,3,0
+soft erections,3,0
+sexual dysfunction,3,0
+priapm,3,0
+edeye problems,3,0
+eye problemsfibromyalgia,3,0
+fibromyalgiafracture,3,0
+fracturefreckle,3,0
+freckle,3,0
+gallbladder disease,3,0
+gallstone,3,0
+pale feces,3,0
+jaundice,3,0
+generalized anxiety disorder,3,0
+herpes simplex,3,0
+perianal pain,3,0
+genital wart,3,0
+glomerulonephrit,3,0
+edema,3,0
+proteinuria,3,0
+nephrit,3,0
+gonorrhea,3,0
+swollen testicle,3,0
+gout,3,0
+joint pain,3,0
+tophus,3,0
+gum diseases,3,0
+gynecomastia,3,0
+breast enlargement,3,0
+mastodynia,3,0
+head lice,3,0
+deafness,3,0
+myocardial infarction,3,0
+sweating,3,0
+cardiovascular disease,3,0
+palpitation,3,0
+heat stroke,3,0
+cramp,3,0
+coma,3,0
+tachypneaheel pain,3,0
+heel painhemorrhage,3,0
+hemorrhage,3,0
+hemorrhoids,3,0
+anal swelling,3,0
+hepatitis,3,0
+lymphadenopathyherniated dcs,3,0
+herniated dcshiatal hernia,3,0
+hiatal hernia,3,0
+htrionic personality disorder,3,0
+aids,3,0
+candidias,3,0
+opportuntic infection,3,0
+hiv,3,0
+lymphadenopathy,3,0
+flu-like symptoms,3,0
+hives,3,0
+angioedema,3,0
+skin rashhyperglycemia,3,0
+high blood sugar,3,0
+hyperkalemia,3,0
+high potassium,3,0
+hypertension,3,0
+asymptomatic,3,0
+high blood pressure,3,0
+hyperthyroidm,3,0
+thyrotoxicos,3,0
+hypothyroidm,3,0
+weight gain,3,0
+infectious diseases,3,0
+infectious mononucleos,3,0
+glandular fever,3,0
+influenza,3,0
+watery eyes,3,0
+red eye,3,0
+hormonal disorders,3,0
+type  diabetes,3,0
+polydipsia,3,0
+iron deficiency anemia,3,0
+clouding of consciousness,3,0
+menorrhagia,3,0
+irritable bowel syndrome,3,0
+rectal tenesmus,3,0
+ibs,3,0
+irritable male syndrome,3,0
+itching,3,0
+juvenile diabetes,3,0
+chronic childhood arthrit,3,0
+eye inflammation,3,0
+jra,3,0
+nephropathy,3,0
+kidney stone,3,0
+foul smelling urine,3,0
+renal calculi,3,0
+leukemia,3,0
+infection,3,0
+liver tumour,3,0
+hepatocellular carcinoma (hcc),3,0
+lung cancer,3,0
+nail clubbing,3,0
+cachexia,3,0
+bovine spongiform encephalopat,3,0
+bovine spongiform encephalopathy,3,0
+malaria,3,0
+chills,3,0
+melena,3,0
+memory loss,3,0
+menopause,3,0
+hot flash,3,0
+vaginal dryness,3,0
+mesothelioma,3,0
+migraine,3,0
+mcarriage,3,0
+metrorrhagia,3,0
+mucus in stooldsociative identity disorder,3,0
+dsociative identity disorder,3,0
+multiple scleros,3,0
+optic papillit,3,0
+horner's syndrome,3,0
+ms,3,0
+muscle cramps,3,0
+muscle fatigue,3,0
+muscle pain,3,0
+nail bitingnarcstic personality dor,3,0
+narcstic personality disorder,3,0
+neck painobesity,3,0
+obesity,3,0
+snoring,3,0
+obsessive-compulsive disorder,3,0
+intrusive thoughts,3,0
+sexual obsessions,3,0
+purely obsessional ocd,3,0
+ocd,3,0
+osteoarthrit,3,0
+stiffness,3,0
+oa,3,0
+osteomyelit,3,0
+lumbago,3,0
+osteoporos,3,0
+kyphos,3,0
+loss of height,3,0
+ovarian cancer,3,0
+polycystic ovary syndrome,3,0
+amenorrhoea,3,0
+panic attack,3,0
+paranoid personality disorder,3,0
+parkinson's disease,3,0
+drooling,3,0
+hypomimia,3,0
+tremor,3,0
+pd,3,0
+pen enlargementperipheral vascular disease,3,0
+peripheral vascular disease,3,0
+pad,3,0
+personality disorder,3,0
+peptic ulcer,3,0
+pervasive developmental disorder,3,0
+pdd,3,0
+peyronie's disease,3,0
+pen shortening,3,0
+painful erections,3,0
+conjunctivity,3,0
+eye discharge,3,0
+hyperaemia,3,0
+pink eye,3,0
+poliomyelit,3,0
+flaccid paralys,3,0
+pneumonia,3,0
+post-nasal drip,3,0
+posttraumatic stress disorder,3,0
+flashback,3,0
+insomnia,3,0
+self-destructive behaviour,3,0
+ptsd,3,0
+preterm birth,3,0
+premenstrual syndrome ,3,0
+premenstrual syndrome,3,0
+change in sexual interest,3,0
+pms,3,0
+propecia,3,0
+prostate cancer,3,0
+painful ejaculation,3,0
+psorias,3,0
+plaque,3,0
+reactive attachment disorder,3,0
+rad,3,0
+renal failure,3,0
+restless legs syndrome,3,0
+urge to move,3,0
+motor restlessness,3,0
+vague uncomfortable sensations,3,0
+rls,3,0
+rheumatoid arthritis,3,0
+vasculit,3,0
+ra,3,0
+rheumatic fever,3,0
+sydenham's chorea,3,0
+ringworm,3,0
+scaly skin,3,0
+rosacea,3,0
+ocular rosacea,3,0
+rhinophyma,3,0
+rotator cuff,3,0
+scabies,3,0
+scarssciatica,3,0
+severe acute respiratory syndrome,3,0
+severe acute respiratory syndrome,3,0
+sars,3,0
+schizoid personality disorder,3,0
+schizophrenia,3,0
+thought insertion,3,0
+avolition,3,0
+sexually transmitted disease,3,0
+std,3,0
+sinusit,3,0
+nasal congestion,3,0
+skin cancer,3,0
+skin ulcer,3,0
+skin lesion,3,0
+melanocytic nevus,3,0
+sleep disorder,3,0
+sleep apnea,3,0
+smallpox,3,0
+enanthem,3,0
+macule,3,0
+snoringsocial anxiety disorder,3,0
+social anxiety disorder,3,0
+staphylococcus aureus,3,0
+mrsa,3,0
+stomach cancer,3,0
+bleeding,3,0
+streptococcal pharyngit,3,0
+malae,3,0
+sore throat,3,0
+sudden infant death syndrome,3,0
+sids,3,0
+sunburn,3,0
+warm skin,3,0
+syphil,3,0
+systemic lupus erythematosus,3,0
+sle,3,0
+tenn elbow,3,0
+termination of pregnancy,3,0
+abortiontesticular cancer,3,0
+testicular cancer,3,0
+painless testicular lump,3,0
+tooth decay,3,0
+edwards syndrome,3,0
+tuberculos,3,0
+tb,3,0
+ulcers,3,0
+urinary tract infection,3,0
+urethrit,3,0
+urinary urgency,3,0
+uti,3,0
+varicose veins,3,0
+stas dermatit,3,0
+vertigo,3,0
+vion disorder,3,0
+wart,3,0
+williams syndrome,3,0
+vaginal tenderness,3,0
+yeast infection,3,0
+yellow fever,3,0

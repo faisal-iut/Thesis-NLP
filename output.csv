@@ -1,0 +1,17 @@
+word,pos,prepos,nxtpos,ontotag,onto-BIO,onto-predict,dict-tag,dict-score,dict-BIO
+i,NN,start,VB,NA,B,NA,0,0,B
+be,VB,NN,DT,NA,B,NA,0,0,B
+a,DT,VB,CD,NA,B,NA,0,0,B
+24,CD,DT,NNS,NA,B,NA,0,0,B
+years,NNS,CD,JJ,Temporal_Concept,B,NA,5,0,B
+old,JJ,NNS,NN,Temporal_Concept,B,NA,4,14,B
+male,NN,JJ,.,Organism_Attribute,B,NA,4,12,B
+.,.,NN,end,NA,B,NA,0,0,B
+explosive,JJ,start,NN,Disease_or_Syndrome,B,disease,0,0,B
+diarrhea,NN,JJ,NN,Disease_or_Syndrome,I,disease,1,0,B
+fever,NN,NN,IN,Finding,B,NA,1,0,B
+for,IN,NN,IN,Qualitative_Concept,B,NA,0,0,B
+about,IN,IN,CD,Qualitative_Concept,B,NA,0,0,B
+5,CD,IN,NNS,Temporal_Concept,B,NA,0,0,B
+days,NNS,CD,.,Temporal_Concept,I,NA,5,0,B
+.,.,NNS,end,NA,B,NA,0,0,B
